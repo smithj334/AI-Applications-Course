@@ -37,6 +37,3 @@ My work bridges the gap between advanced deep learning concepts and actionable b
 * **The Solution:** Explored the theoretical application of Artificial General Intelligence (AGI) as a centralized project manager for mega-projects.
 * **Mechanism:** The system acts as the ultimate "Flatten layer," bridging the gap between digital design and physical execution by coordinating synchronized swarms of automated construction robots and recalculating structural physics in real-time.
 
----
-
-l Development where I can leverage automation and machine learning to build scalable, high-impact business solutions.
