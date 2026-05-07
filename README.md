@@ -1,4 +1,4 @@
-# Jonathan Smith | AI Implementation & Applications Portfolio 
+# Jonathan Smith | AI Implementation & Applications ITAI 2372 Portfolio 
 
 **AI Engineering | Data Science | Automation Strategies**
 Houston, TX
